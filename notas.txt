@@ -1,0 +1,59 @@
+Vamos praticar! (aula 01)
+
+- Tags;
+- Estrutura básica;
+- Cabeçalho e corpo;
+- Títulos e parágrafos;
+- EXTRA: destaque de texto com negrito e itálico.
+
+
+Vamos praticar! (aula 02)
+
+- Novas páginas;
+    - Produtos, lojas e contato;
+- Linhas;
+- Imagens;
+- Links.
+
+
+Vamos praticar! (aula 03)
+
+- Menu;
+- Incluir produto;
+- Detalhes finais.
+
+
+Vamos praticar! (aula 04)
+
+- Listas ordenadas e não ordenadas;
+    - Tags: <ul>, <ol> e <li>;
+    <ul>
+        <li>Processador</li>
+        <li>Memória RAM</li>
+        <li>Tela</li>
+        <li>Mouse</li>
+    </ul>
+
+    <ol>
+        <li>Teclado</li>
+        <li>Placa de Vídeo</li>
+        <li>Cooler</li>
+        <li>Modem</li>
+    </ol>
+EXTRA: caracteres especiais.
+
+
+Vamos praticar! (aula 05)    
+
+- Formulário;
+    - Tags: <form>, <input>, <label> e <textarea>;
+    <form>
+        <label>Escreva seu nome:</label>
+        <input type="text" placeholder="Digite aqui o seu nome">
+
+        <label>Senha:</label>
+        <input type="password" placeholder="Digite sua senha">
+
+        <label>Digite o seu comentário:</label>
+        <textarea placeholder="Comente aqui"></textarea>
+    </form>
