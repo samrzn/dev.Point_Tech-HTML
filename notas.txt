@@ -4,7 +4,7 @@ Vamos praticar! (aula 01)
 - Estrutura básica;
 - Cabeçalho e corpo;
 - Títulos e parágrafos;
-- EXTRA: destaque de texto com negrito e itálico.
+- EXTRA: destaque de texto com negrito e itálico. 
 
 
 Vamos praticar! (aula 02)
